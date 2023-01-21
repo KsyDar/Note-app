@@ -1,0 +1,119 @@
+{
+  "notes": [
+    {
+      "id": "b6dd2324-21ed-4d3a-82b5-dd70c9929bac",
+      "name": "Список дел №1",
+      "todos": [
+        {
+          "id": "a531e4c8-a016-4edc-9435-2e60a8b84d07",
+          "name": "Дело 1",
+          "isDone": false
+        },
+        {
+          "id": "6976d45b-8733-402a-9bf0-b23116d86a21",
+          "name": "Дело 2",
+          "isDone": true
+        }
+      ]
+    },
+    {
+      "id": "96709352-08bc-4d3d-abd2-4acc0922d121",
+      "name": "Список дел №2",
+      "todos": [
+        {
+          "id": "fcbe6e5b-6ed5-48dd-95f9-f0799d512060",
+          "name": "Дело 1",
+          "isDone": false
+        },
+        {
+          "id": "fbf6d889-5af6-4d9e-8f13-d39e4b704b53",
+          "name": "Дело 2",
+          "isDone": false
+        },
+        {
+          "id": "160529df-383f-4e0d-860d-9faad89857ea",
+          "name": "Дело 3",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "id": "f8dd7102-5245-409a-8049-c6dd102db64d",
+      "name": "Список дел №3",
+      "todos": [
+        {
+          "id": "757d029c-f81a-49fd-a288-1db581a74409",
+          "name": "Дело 1",
+          "isDone": false
+        },
+        {
+          "id": "f59930d6-c273-439f-9915-681a76b2bada",
+          "name": "Дело 2",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "id": "4abf3955-b8bc-45de-8e3f-8c964ed9ca2e",
+      "name": "Список дел №4",
+      "todos": [
+        {
+          "id": "cfac2e75-17ce-4cb2-866e-95e7adfaeb06",
+          "name": "Дело 1",
+          "isDone": true
+        },
+        {
+          "id": "bd4c3b9d-3e2a-4810-bb83-4d876835b4fe",
+          "name": "Дело 2",
+          "isDone": true
+        },
+        {
+          "id": "666abd4a-514a-4a5e-9356-36aaa32b5c07",
+          "name": "Дело 3",
+          "isDone": false
+        },
+        {
+          "id": "ace9e527-9af9-4e43-83d1-684e6a33df9d",
+          "name": "Дело 4",
+          "isDone": false
+        },
+        {
+          "id": "4828a458-d914-4a9d-984e-e92fe337db2d",
+          "name": "Дело 5",
+          "isDone": false
+        },
+        {
+          "id": "c34a0753-38f0-4e85-8b04-956d942e60ad",
+          "name": "Дело 6",
+          "isDone": false
+        },
+        {
+          "id": "56c5d9b6-a9cf-4ed1-b92d-ec98afa4d663",
+          "name": "Дело 7",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "id": "018e54ef-0dce-490b-9325-be4873ad7d76",
+      "name": "Список дел №5",
+      "todos": [
+        {
+          "id": "f84fd233-9402-435a-84c6-22edd1fcd0e7",
+          "name": "Дело 1",
+          "isDone": false
+        },
+        {
+          "id": "e26c192d-1df9-4cee-bac6-3aeba461f78e",
+          "name": "Дело 2",
+          "isDone": true
+        },
+        {
+          "id": "c7921a66-4b5f-4452-8232-7be1c9fb4802",
+          "name": "Дело 3",
+          "isDone": true
+        }
+      ]
+    }
+  ]
+}
